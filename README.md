@@ -2,7 +2,9 @@
 In this project i will use Retinanet in Keras for Multi Object Detection in traffic sign dataset.
 The dataset from 'https://challenge.zalo.ai/portal/traffic-sign-detection'.
 The reason why I choose Retinanet because when i saw the dataset i found that the dataset has imbalance in classes. 
-Another model usually use Cross Entropy loss.
+
+
+Another models usually use Cross Entropy loss.
 
 ![image](https://user-images.githubusercontent.com/57851053/116907249-8a7f2a80-ac6b-11eb-8855-f560c7ceaadd.png)
 
